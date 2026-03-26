@@ -9,7 +9,7 @@ Computer determines whether to play the Rock music or no according to the motion
 
 The process is math integrated : using mirror, system can detect nose and iris location (their coordinates). After determining whether they are up or down, the code runs.
 
-## Screenshot / GIF
+## Screenshot
 
 https://drive.google.com/file/d/1n2dUSF12ldbHKp-UQnshkzWw1QgiW2K5/view?usp=sharing
 https://drive.google.com/file/d/1jve8JkJy6qaD4HaFZvMTliPsmNdpJhjK/view?usp=sharing
